@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<model userDefinedModelVersionIdentifier="" type="com.apple.IDECoreDataModeler.DataModel" documentVersion="1.0" lastSavedToolsVersion="6252" systemVersion="14B25" minimumToolsVersion="Xcode 4.3" macOSVersion="Automatic" iOSVersion="Automatic">
+    <entity name="SaveData" representedClassName="SaveData" syncable="YES">
+        <attribute name="characterImage" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="characterName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="locationX" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="locationY" optional="YES" attributeType="Integer 32" defaultValueString="0" syncable="YES"/>
+        <attribute name="saveName" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="sid" optional="YES" attributeType="String" syncable="YES"/>
+        <attribute name="time" optional="YES" attributeType="Date" syncable="YES"/>
+    </entity>
+    <elements>
+        <element name="SaveData" positionX="-54" positionY="-9" width="128" height="148"/>
+    </elements>
+</model>

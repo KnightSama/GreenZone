@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>A50F6A7C-01C8-4EDC-B74C-5DA9EE630913</string>
+	<key>IDESourceControlProjectName</key>
+	<string>GreenZone</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>FDC22D196F22B58028986E8B3F39E82771DE6BED</key>
+		<string>https://git.oschina.net/eastzqh/GreenZone.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>GreenZone.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>FDC22D196F22B58028986E8B3F39E82771DE6BED</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://git.oschina.net/eastzqh/GreenZone.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>FDC22D196F22B58028986E8B3F39E82771DE6BED</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>FDC22D196F22B58028986E8B3F39E82771DE6BED</string>
+			<key>IDESourceControlWCCName</key>
+			<string>GreenZone</string>
+		</dict>
+	</array>
+</dict>
+</plist>
